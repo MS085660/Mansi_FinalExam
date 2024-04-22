@@ -1,0 +1,27 @@
+body{
+    background-color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px 2px;
+}
+h2{
+    color: #c42445;
+    font-size: 14px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px 2px;
+
+}
+h3{
+    color:blue;
+    font-size: 14px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 3px 2px;
+
+}
+nav{
+    text-decoration: none;
+    color:black;
+    margin-top: 1%;
+
+}
